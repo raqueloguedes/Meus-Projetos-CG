@@ -1,2 +1,2 @@
-# Meus-Projetos
- primeiro repositorio do curso
+# Meus-Projetos-CG
+ Repositório para projetos Cloud Girls
